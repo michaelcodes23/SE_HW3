@@ -21,10 +21,12 @@ class Hero{
             let weapon =[this.weapons.sprinkleSpray,this.weapons.sugarShock]
             console.log("I'm the hero! Take this " + villain.name + " your life is now reduced by : " + weapon[Math.round(Math.random())]);
             console.log("I\'m ready to rumble!!!!")
+            villain.health -= weapon[Math.round(Math.random())]
+            console.log('You hurt me ' + this.name + " my health is now " + villain.health);
         }
 }
 const hero = new Hero("Dougie");
-console.log(hero);
+// console.log(hero);
 // hero.talkSass();
 // hero.announceHealth();
 // hero.fight();
@@ -49,12 +51,14 @@ class Enemy {
         let weapon =[this.weapons.pepperoniStars,this.weapons.cheeseGrease]
         console.log("taste my wrath " + hero.name +"! Your life is now reduced by : " + weapon[Math.round(Math.random())]);
         console.log(`i\'m gonna flatten you like a slice of pepperoni!`)
+        hero.health -= weapon[Math.round(Math.random())]
+        console.log('You hurt me ' + this.name + " my health is now " + hero.health);
     }
 }
 
 
 const villain = new Enemy ("Pizza Rat");
-console.log(villain);
+// console.log(villain);
 // villain.talkSmack();
 // villain.announceHealth();
 // villain.fight();
