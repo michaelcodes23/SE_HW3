@@ -163,7 +163,7 @@ Your commit message should read something like: <br>
 ### Walking Down the Street
 
 Now, let's write their story! Dougie is walking down Flat Iron -- but oh no! He runs into Pizza rat!
-   
+
 1. Have Dougie `talkSass` 
 1. Have Pizza Rat `talkSmack`
 1. Have Dougie `announceHealth`

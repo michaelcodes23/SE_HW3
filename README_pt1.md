@@ -20,7 +20,7 @@ You'll be creating a simple, browser-based JavaScript game that utilizes `alert(
 
 1. Inside today's homework folder, there's  a `landscaper` folder. Inside the landscaper folder, create `index.html` and `app.js` files
 
-1. Connect your `app.js` file to your `index.html` file. Write some sort of `console.log()` in your `app.js` and open up your `index.html` file in the browser to check if you've connected your files correctly 
+1. Connect your `app.js` file to your `index.html` file. Write `some` sort of `console.log()` in your `app.js` and open up your `index.html` file in the browser to check if you've connected your files correctly 
 
 1. Now that you're all set up, using JavaScript, simluate the following simple game:  
 
@@ -42,6 +42,8 @@ You'll be creating a simple, browser-based JavaScript game that utilizes `alert(
     Your commit message should read something like: <br>
     "landscaper: user can buy scissors"
     <hr>
+
+    
 
 1. Using the rusty scissors, you can spend the day cutting lawns and make $5.  You can do this as much as you want.
 
@@ -138,7 +140,7 @@ For this section of the homework, inside the `landscaper` folder you should have
 1. Some of our students went above and beyond for this homework doing exactly that! See below for some examples: 
 
 <details><summary>Student One</summary>
-    
+
 ![first screen](https://i.imgur.com/BABhJ5O.png)
 
 ![buying tools](https://i.imgur.com/ocxAvt9.png)
@@ -147,7 +149,7 @@ For this section of the homework, inside the `landscaper` folder you should have
 </details>
 
 <details><summary>Student Two</summary>
-    
+
 ![first screen](https://i.imgur.com/ekQLWtZ.png)
 
 ![options](https://i.imgur.com/txAHwK0.png)
@@ -163,7 +165,7 @@ For this section of the homework, inside the `landscaper` folder you should have
 
 
 <details><summary>Student Three</summary>
-    
+
 ![](https://i.imgur.com/ClNabWU.jpg)
 
 ![](https://i.imgur.com/6xPwych.jpg)

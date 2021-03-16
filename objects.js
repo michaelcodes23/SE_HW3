@@ -110,3 +110,5 @@ console.log(`Timmy is now ${per.age} years old.`)
 bummedEat(2);
 exerciseTim(2);
 console.log(`Timmy exercised and ate twice, so far he has gained ${per.weight} pounds, yet his mood up to ${per.mood}`);
+
+//DARING ADVENTURE
