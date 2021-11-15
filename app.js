@@ -5,6 +5,7 @@ let tool = "teeth";
 let income = 0;
 
 //function to log out income gathered per day of work depending on the tool being used
+
 function job (day){
     if(tool === "rusty scissors"){
         for(let i = 1; i <= day ; i++ ){
